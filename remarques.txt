@@ -1,0 +1,2 @@
+diagrame usecase, diagrame de classe
+et en bonus, diagrame de sequence
