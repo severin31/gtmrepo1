@@ -1,0 +1,41 @@
+Développement JAVA : "Syntaxe Java - boucles et instructions conditionnelles"
+
+
+**********************************************************
+Objectif N°1 : coder des opérateurs logiques 
+**********************************************************
+
+Mettre en oeuvre un code qui met en évidence votre aptituder à mettre en oeuvre dans un code les opérateurs logiques suivants :
+
+« == » : permet de tester l'égalité. 
+« != » : permet de tester l’inégalité. 
+« < » : strictement inférieur. 
+« <= » : inférieur ou égal. 
+« > » : strictement supérieur. 
+« >= » : supérieur ou égal. 
+« && » : l'opérateur ET. 
+« || » : le OU. «  ? : » : l'opérateur ternaire
+
+
+
+
+**********************************************************
+Objectif N°2 : coder 3 types d'instruction conditionnelles
+**********************************************************
+
+Reprendre le code du cours. Expliquer
+
+- if....else
+- switch
+- condition ternaire
+
+
+**********************************************************
+Objectif N°3 : coder 3 types de boucles
+**********************************************************
+
+Reprendre le code du cours. Expliquer
+
+- While
+- do...while
+- for
